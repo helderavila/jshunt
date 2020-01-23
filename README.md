@@ -1,21 +1,21 @@
-<!-- <h1 align="center">
-    <img alt="JSHunt" title="#delicinha" src=".github/devradar.svg" width="250px" />
+ <h1 align="center">
+    <img alt="JSHunt" title="#delicinha" src="https://i.imgur.com/YprKxbh.png" width="250px" />
 </h1>
--->
+
 <h4 align="center">
   JSHUNT
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helderavila/jshunt">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-sizehelderavila/jshunt">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/helderavila/jshunt">
   
   <a href="https://github.com/helderavila/jshunt/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/helderavila/jshunt">
   </a>
 
   <a href="https://github.com/helderavila/jshunt/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/helderavila/jshunttack-10">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/helderavila/jshunt">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
